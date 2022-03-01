@@ -1,4 +1,4 @@
-module github.com/opencal-fydp/authorization
+module github.com/OpenCal-FYDP/Authorization
 
 go 1.17
 
